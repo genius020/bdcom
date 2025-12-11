@@ -1,4 +1,4 @@
-#Scanf in C - Complete Explanation
+# Scanf in C - Complete Explanation
 
 The `scanf` function is the input analog of `printf`, providing many of the same conversion facilities in the opposite direction. 
 

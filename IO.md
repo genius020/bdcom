@@ -20,6 +20,8 @@ int scanf(char *format, ...)
 
 The next call to `scanf` resumes searching immediately after the last character already converted.
 
+[More About I/O](more_scanf.md)
+
 ### Return Value Examples
 
 ```c

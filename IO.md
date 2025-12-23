@@ -1,5 +1,7 @@
 # Scanf in C - Complete Explanation
 
+[← Back to About](ABOUT.md) | [Home](README.md)
+
 The `scanf` function is the input analog of `printf`, providing many of the same conversion facilities in the opposite direction. 
 
 ## Function Prototype
@@ -558,3 +560,7 @@ Code read: ABCDE
 8. **White space** in input is flexible - scanf skips over it
 9. **Literal characters** in format string must match input exactly
 10. **Mixing scanf with other input** - next function continues from where scanf stopped
+
+---
+
+[← Back to About](ABOUT.md) | [Home](README.md)
